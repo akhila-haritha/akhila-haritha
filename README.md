@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Akhila Angara</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a third year student at SRMIST, Kattankulathur pursuing my bachelor's degree in Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhila-haritha&label=Profile%20views&color=0e75b6&style=flat" alt="akhila-haritha" /> </p>
 
-- 🌱 I’m currently learning **Ethical hacking, Data Analytics and Machine Learning**
+- 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
